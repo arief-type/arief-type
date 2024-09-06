@@ -6,7 +6,7 @@
 - ✉️  You can contact me at [msyaifullahalarief@gmail.com](mailto:msyaifullahalarief@gmail.com)
 - 🧠  I'm learning TypeScript
 - 🤝  I'm open to collaborating on Software Development
-- 🤝  This is second github account, see my main github arief2020
+- 🤝  This is second github account, see my main github arief2020.
 
 
 ## Skills
